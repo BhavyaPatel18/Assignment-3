@@ -46,5 +46,3 @@ class Bank:
         self.accounts.append(acc)
         print(f"Account {acc_num} opened successfully.")
         
-a = Account(123, 4000)
-print(a.balance)
